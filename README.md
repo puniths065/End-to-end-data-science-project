@@ -2,9 +2,9 @@
 
 Company : CODETECH IT SOLUTIONS
 
-Name : Sowmya GS
+Name : Punith S 
 
-Intern ID : CTIS6512
+Intern ID : CTIS6704
 
 Domain : Data Science
 
